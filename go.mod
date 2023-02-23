@@ -5,7 +5,7 @@ go 1.17
 require (
 	golang.org/x/exp v0.0.0-20210722180016-6781d3edade3
 	golang.org/x/image v0.0.0-20210628002857-a66eb6448b8d
-	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f
 )
 
 require (
@@ -17,4 +17,4 @@ require (
 	github.com/go-text/typesetting v0.0.0-20220411150340-35994bc27a7b
 )
 
-require golang.org/x/text v0.3.7 // indirect
+require golang.org/x/text v0.3.8 // indirect
